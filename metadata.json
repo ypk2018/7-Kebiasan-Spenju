@@ -1,0 +1,7 @@
+{
+  "name": "Jurnal 7 Kebiasaan Anak Indonesia Hebat",
+  "description": "Aplikasi Jurnal 7 Kebiasaan Anak Indonesia Hebat untuk pencatatan harian siswa, pemantauan guru, dan cetak laporan resmi.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
